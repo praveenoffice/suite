@@ -1,0 +1,17 @@
+body{
+    background-color: skyblue;      /* The Entire Background of the webpage will be sky blue*/
+    
+}
+hr{
+    border-color: brown;         /* Here we distingush the color of the Horizontal Row*/
+
+}
+.activity{
+    text-align:left;
+}
+#activities:hover{
+    color: blue;
+    text-align: left;
+
+}
+}
